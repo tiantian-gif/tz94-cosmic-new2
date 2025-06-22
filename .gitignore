@@ -1,0 +1,8 @@
+# 项目排除路径
+/.gradle/
+/code/base/tz94-prj01-base-common/build/
+/code/base/tz94-prj01-base-helper/build/
+/code/cloud01/tz94-prj01-cloud01-app01/build/
+/code/cloud01/tz94-prj01-cloud01-app01/build/classes/java/main/
+/code/tz94-cosmic-debug/build/
+/code/tz94-cosmic-debug/build/classes/java/main/
